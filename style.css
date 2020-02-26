@@ -1,0 +1,42 @@
+body {
+  background-image: url("PADbg.png");
+  background-repeat: no-repeat;
+}
+
+#hexazeon {
+  width: auto;
+  height: auto;
+}
+
+.ui.menu {
+  margin-top: 0;
+  background-color: #332113;
+  border-right-width: thick;
+  height: 8%;
+}
+
+.item {
+  position: relative;
+  border-right-width: thick;
+}
+
+p {
+  color: white;
+  font-family: "MS Gothic", sans-serif;
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+#green {
+  color: #244D29;
+  font-family: "Yu Gothic UI Semibold", sans-serif;
+  font-weight: bold;
+  font-size: 350%;
+}
+
+#regular {
+  color: black;
+  font-family: "MS Gothic", sans-serif;
+  font-weight: bold;
+  font-size: medium;
+}
